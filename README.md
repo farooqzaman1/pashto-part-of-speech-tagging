@@ -1,2 +1,2 @@
-# pashto-part-of-speech-tagging
+# Pashto-part-of-speech-tagging
 pos tagging
